@@ -40,7 +40,7 @@ RaPD performs diffusion in a continuous **Neural Image Field (NIF)** latent spac
 ## Installation
 
 ```bash
-git clone https://github.com/wangwhTj/rapd.git
+git clone https://github.com/wangwhTj/RaPD-NeurIPS2026.git
 cd rapd
 
 python3 -m venv rapd
